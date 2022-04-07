@@ -4,6 +4,10 @@ RNGBLGTHM-TWD adalah template html untuk blog theme yang dibuat menggunakan Tail
 
 Untuk mendownload source code-nya, kunjungi bagian Releases.
 
+## Screencast
+
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWSmwMTKWVgo69-uuQgcUfmp
+
 ## Info Tambahan
 
 Traktir Saya:
