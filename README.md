@@ -8,6 +8,10 @@ Untuk mendownload source code-nya, kunjungi bagian Releases.
 
 - https://www.youtube.com/playlist?list=PLOg7o5N1MDWSmwMTKWVgo69-uuQgcUfmp
 
+## Screenshot
+
+![ScreenShot](assets/RNGBLGTHM-TWD.png?raw=true)
+
 ## Info Tambahan
 
 Traktir Saya:
