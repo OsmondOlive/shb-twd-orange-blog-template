@@ -1,8 +1,12 @@
 # RNGBLGTHM-TWD
 
-RNGBLGTHM-TWD adalah template html untuk blog theme yang dibuat menggunakan Tailwindcss.
+## Download
 
-Untuk mendownload source code-nya, kunjungi bagian Releases.
+Download the project on release page.
+
+## Intro
+
+RNGBLGTHM-TWD is a Tailwind CSS blog theme template.
 
 ## Screencast
 
