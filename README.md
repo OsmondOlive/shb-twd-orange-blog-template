@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Intro
 
 RNGBLGTHM-TWD is a Tailwind CSS blog theme template.
@@ -15,9 +21,3 @@ RNGBLGTHM-TWD is a Tailwind CSS blog theme template.
 ## Screenshot
 
 ![ScreenShot](assets/RNGBLGTHM-TWD.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
