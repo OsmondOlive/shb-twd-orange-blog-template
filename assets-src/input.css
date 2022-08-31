@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.block-search-inside-wrapper {
+  @apply text-center pt-2 relative mx-auto text-gray-600;
+}
+
+.block-search-input {
+  @apply w-full border-2 border-gray-300 bg-white h-8 px-5 pr-16 rounded-lg text-sm focus:outline-none mb-1;
+}
+
+.block-search-button {
+  @apply bg-white rounded-full px-3 py-1 text-sm font-semibold text-orange-500;
+}
+
+.block-latest-posts li,
+.block-latest-comments li {
+  @apply w-full rounded-lg p-3 my-2 bg-red-500 text-white overflow-hidden;
+}
+
+.block-archives li,
+.block-categories li {
+  @apply list-disc list-inside indent-5;
+}
+
+.entry-content h1,
+.comment-content h1,
+.widget-area h1 {
+  @apply text-2xl font-bold text-white my-3;
+}
+
+.entry-content h2,
+.comment-content h2,
+.widget-area h2 {
+  @apply text-xl font-bold text-white my-3;
+}
+
+.entry-content h3,
+.comment-content h3,
+.widget-area h3 {
+  @apply text-lg font-bold text-white my-3;
+}
+
+.entry-content p,
+.entry-content span,
+.entry-content ul,
+.entry-content ol,
+.comment-content p,
+.comment-content span,
+.comment-content ul,
+.comment-content ol,
+.widget-area p,
+.widget-area span,
+.widget-area ul,
+.widget-area ol {
+  @apply text-white;
+}
+
+.entry-content a,
+.comment-content a,
+.widget-area a {
+  @apply text-white underline;
+}
+
+.entry-content a:hover,
+.comment-content a:hover,
+.widget-area a:hover {
+  @apply text-white underline;
+}
+
+.entry-content ul li,
+.comment-content ul li {
+  @apply list-disc list-inside;
+}
+
+.entry-content ul > li > ul > li,
+.comment-content ul > li > ul > li {
+  @apply indent-5;
+}
+
+.entry-content ul > li > ul > li > ul > li,
+.comment-content ul > li > ul > li > ul > li {
+  @apply indent-10;
+}
+
+.entry-content ol li,
+.comment-content ol li {
+  @apply list-decimal list-inside;
+}
+
+.entry-content ol > li > ol > li,
+.comment-content ol > li > ol > li {
+  @apply indent-5;
+}
+
+.entry-content ol > li > ol > li > ol > li,
+.comment-content ol > li > ol > li > ol > li {
+  @apply indent-10;
+}
+
+.entry-content table,
+.comment-content table,
+.widget-area table {
+  @apply table-auto;
+}
+
+.comment-body {
+  @apply w-full rounded-lg p-3 my-3 bg-orange-500 text-white;
+}
+
+.comment-metadata a {
+  @apply text-sm;
+}
+
+.comment-author b a {
+  @apply text-lg underline;
+}
+
+.comment-author b a:hover {
+  @apply text-lg no-underline;
+}
+
+.reply {
+  @apply inline-block bg-white rounded-full px-3 py-1 mt-3 text-sm font-semibold text-orange-500;
+}
+
+.depth-2,
+.depth-3,
+.depth-4,
+.depth-5,
+.depth-6,
+.depth-7,
+.depth-8,
+.depth-9,
+.depth-10 {
+  @apply ml-4;
+}
+
+.comment-respond {
+  @apply w-full rounded-lg p-3 my-3 bg-orange-500 text-white;
+}
+
+.comment-reply-title {
+  @apply text-xl text-white font-bold;
+}
+
+.comment-form-comment textarea {
+  @apply md:col-start-2 md:col-end-9 border-2 border-gray-300 bg-white text-gray-600 h-48 px-5 pr-16 rounded-lg text-sm focus:outline-none;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input {
+  @apply md:col-start-2 md:col-end-9 border-2 border-gray-300 bg-white text-gray-600 h-8 px-5 pr-16 rounded-lg text-sm focus:outline-none;
+}
+
+.comment-form-cookies-consent input {
+  @apply border-2 border-gray-300 bg-white text-gray-600 h-8 px-5 pr-16 rounded-lg text-sm focus:outline-none;
+}
+
+.comment-form-cookies-consent label {
+  @apply col-span-7;
+}
+
+.comment-form p {
+  @apply my-3 grid md:grid-cols-8;
+}
+
+p.comment-notes {
+  @apply block;
+}
+
+input.submit {
+  @apply bg-white rounded-full px-3 py-1 text-sm font-semibold text-orange-500 col-start-8;
+}
+
+ul.nav-menu {
+  @apply md:flex md:flex-row md:z-50;
+}
+
+ul.nav-menu li {
+  @apply md:text-left md:relative md:flex-initial;
+}
+
+ul.nav-menu > li {
+  @apply md:mb-2 md:mr-3;
+}
+
+ul.nav-menu > li > ul.sub-menu > li:first-child {
+  @apply md:mt-2;
+}
+
+.nav-menu li a {
+  @apply md:bg-red-500 md:rounded-lg md:px-3 md:py-1 md:text-sm md:font-semibold md:text-white md:whitespace-nowrap;
+}
+
+ul.nav-menu ul.sub-menu {
+  @apply md:hidden;
+}
+
+ul.nav-menu li.menu-item-has-children:hover > ul.sub-menu {
+  @apply md:flex md:flex-col;
+}
+
+ul.sub-menu li {
+  @apply md:float-right md:overflow-visible;
+}
+
+.menu-item-has-children ul,
+.menu-item-has-children ul .menu-item-has-children ul {
+  @apply md:absolute md:z-50;
+}
+
+.menu-item-has-children ul {
+  @apply md:top-full;
+}
+.menu-item-has-children ul .menu-item-has-children ul {
+  @apply md:left-full md:top-0;
+}
+
+.hamburger-container {
+  @apply inline-block float-right md:hidden;
+}
+
+.normal-menu-items {
+  @apply float-right hidden md:inline-block;
+}
+
+.normal-menu-items.active {
+  @apply inline-block w-full bg-red-500 text-white rounded-lg px-3 py-1;
+}
+
+.normal-menu-items.active ul li {
+  @apply ml-4;
+}
