@@ -1,10 +1,6 @@
-# RNGBLGTHM-TWD
+# RNGBLGTHM-TWD - Template HTML Blog dengan Tailwind CSS
 
-## Download
-
-Untuk mendownloadnya, kunjungi halaman Releases.
-
-## Intro
+## Software Apakah Ini?
 
 RNGBLGTHM-TWD adalah Tailwind CSS blog theme template.
 
