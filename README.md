@@ -6,4 +6,4 @@ RNGBLGTHM-TWD adalah Tailwind CSS blog theme template.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/RNGBLGTHM-TWD.png?raw=true)
+![ScreenShot](.readme-assets/RNGBLGTHM-TWD-1.png?raw=true)
