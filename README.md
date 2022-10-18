@@ -1,9 +1,9 @@
-# RNGBLGTHM-TWD - Template HTML Blog dengan Tailwind CSS
+# shb-twd-orange-blog-template - Template HTML Blog dengan Tailwind CSS
 
 ## Software Apakah Ini?
 
-RNGBLGTHM-TWD adalah Tailwind CSS blog theme template.
+shb-twd-orange-blog-template adalah Tailwind CSS blog theme template.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/RNGBLGTHM-TWD-1.png?raw=true)
+![ScreenShot](.readme-assets/shb-twd-orange-blog-template-1.png?raw=true)
