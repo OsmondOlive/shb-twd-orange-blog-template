@@ -1,5 +1,9 @@
 # shb-twd-orange-blog-template - Template HTML Blog dengan Tailwind CSS
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 shb-twd-orange-blog-template adalah Tailwind CSS blog theme template.
